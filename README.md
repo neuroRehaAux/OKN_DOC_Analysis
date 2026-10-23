@@ -19,7 +19,7 @@ The analysis is run with [uv](https://docs.astral.sh/uv/), a small tool that ins
 
 1. **Get the code.**
    On <https://github.com/neuroRehaAux/OKN_DOC_Analysis>, click *Code → Download ZIP* and unzip the file.
-   (Alternatively, with git installed: `git clone https://github.com/vifle/OKN.git`.)
+   (Alternatively, with git installed: `git clone https://github.com/neuroRehaAux/OKN_DOC_Analysis.git`.)
 
 2. **Install uv** (only once per computer).
    Open a terminal (Windows: *PowerShell* from the Start menu; macOS: *Terminal* from Applications → Utilities; Linux: your terminal application) and paste the line for your system:
