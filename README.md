@@ -18,7 +18,7 @@ No prior Python installation or programming experience is needed.
 The analysis is run with [uv](https://docs.astral.sh/uv/), a small tool that installs the exact Python and package versions the published results were produced with (pinned in `pyproject.toml` and `uv.lock`).
 
 1. **Get the code.**
-   On <https://github.com/vifle/OKN>, click *Code → Download ZIP* and unzip the file.
+   On <https://github.com/neuroRehaAux/OKN_DOC_Analysis>, click *Code → Download ZIP* and unzip the file.
    (Alternatively, with git installed: `git clone https://github.com/vifle/OKN.git`.)
 
 2. **Install uv** (only once per computer).
